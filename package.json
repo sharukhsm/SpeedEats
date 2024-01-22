@@ -1,0 +1,16 @@
+{
+  "name": "speedeats",
+  "version": "1.0.0",
+  "description": "Redux, Redux Thunk, Performing Asynchronous operations with redux-thunk, Managing State with Redux, Cart Functionality, Common Payment Gateway Integration, User Authentication, Filtering Items in Redux State, Deploying Application to HEROKU.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
