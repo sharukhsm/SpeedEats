@@ -18,14 +18,14 @@ function FoodItem({ food }) {
         src={food.image}
         alt=""
         className="img-fluid"
-        style={{ height: "200px", width: "200px" }}
+        style={{ height: "250px", width: "220px" }}
       />
 
       <div className="flex-container">
         <div className="w-100 m-1">
           <p>Variants</p>
           <select
-            className="form-control"
+            className="form-select mb-2"
             value={variant}
             onChange={(e) => {
               setVariant(e.target.value);
@@ -40,7 +40,7 @@ function FoodItem({ food }) {
         <div className="w-100 m-1">
           <p>Quantity</p>
           <select
-            className="form-control"
+            className="form-select "
             value={quantity}
             onChange={(e) => {
               setQuantity(e.target.value);
