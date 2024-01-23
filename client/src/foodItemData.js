@@ -1,6 +1,6 @@
 const menuItems = [
   {
-    name: "PHILLY SANDWITCH",
+    name: "Philly Sandwitch",
     variants: ["small", "medium", "large"],
     prices: [{ small: 5, medium: 7, large: 10 }],
     category: "nonveg",
@@ -10,44 +10,54 @@ const menuItems = [
       "Thinly sliced ckicken breasts, onions, peppers, provolone cheese on a hero",
   },
   {
-    name: "BARBECUE CHICKEN",
+    name: "Nashville Hot Chicken Burger",
     variants: ["small", "medium", "large"],
-    prices: [{ small: 200, medium: 350, large: 400 }],
+    prices: [{ small: 6, medium: 10, large: 12 }],
     category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper-Barbeque.jpg",
-    description: "Pepper Barbecue Chicken I Cheese",
+    image:
+      "https://i0.wp.com/pureorganiccafe.com/wp-content/uploads/2022/11/Organic-Fried-Crunchy-Chicken-Burger.png?fit=1250%2C1250&ssl=1",
+    description:
+      "A succulent chicken patty is smothered in zesty buffalo sauce, crowned with a crispy onion ring, and generously drizzled with creamy green chili cheese sauce",
   },
   {
-    name: "BARBECUE CHICKEN",
+    name: "Loaded Chilli Cheese Fries",
     variants: ["small", "medium", "large"],
-    prices: [{ small: 200, medium: 350, large: 400 }],
+    prices: [{ small: 3, medium: 5, large: 7 }],
     category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper-Barbeque.jpg",
-    description: "Pepper Barbecue Chicken I Cheese",
+    image:
+      "https://www.wendys.com/sites/default/files/styles/max_650x650/public/2021-05/chili-cheese-fries-455_medium_US_en_0.png?itok=7Wnl00oh",
+    description:
+      "Made from Whole Russet Potatoes, the new Natural-Cut, ‘skin-on’ fry brings more crispy crunch to deliver an all new taste sensation.",
   },
   {
-    name: "BARBECUE CHICKEN",
+    name: "Hawaiian Blast Smoothie",
     variants: ["small", "medium", "large"],
-    prices: [{ small: 200, medium: 350, large: 400 }],
-    category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper-Barbeque.jpg",
-    description: "Pepper Barbecue Chicken I Cheese",
+    prices: [{ small: 4, medium: 5, large: 6 }],
+    category: "veg",
+    image:
+      "https://www.gastro-tipy.sk/images/articles/649/1920x1536_moze-byt-paradajkova-stava-aj-nebezpecna.jpg",
+    description:
+      "Refreshing and nutritious, this tropical smoothie will wake up your taste buds in the morning!",
   },
   {
-    name: "BARBECUE CHICKEN",
+    name: "Citrus salad",
     variants: ["small", "medium", "large"],
-    prices: [{ small: 200, medium: 350, large: 400 }],
-    category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper-Barbeque.jpg",
-    description: "Pepper Barbecue Chicken I Cheese",
+    prices: [{ small: 6, medium: 8, large: 10 }],
+    category: "veg",
+    image:
+      "https://www.lovemacadamia.org/wp-content/uploads/Citrus-couscous-salad.png",
+    description:
+      "This avocado citrus salad recipe is a light, refreshing side dish! Fennel, mint, grapefruit, oranges, and a bright dressing make it delicious and flavorful.",
   },
   {
-    name: "BARBECUE CHICKEN",
+    name: "Breakfast Tacos",
     variants: ["small", "medium", "large"],
-    prices: [{ small: 200 }, { medium: 350 }, { large: 400 }],
+    prices: [{ small: 7, medium: 10, large: 13 }],
     category: "nonveg",
-    image: "https://www.dominos.co.in/files/items/Pepper-Barbeque.jpg",
-    description: "Pepper Barbecue Chicken I Cheese",
+    image:
+      "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1920,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photosV2/57c95006-d973-4e23-b9b9-6fff0cd08b6f-retina-large.jpg",
+    description:
+      "These breakfast tacos are a delicious way to switch up your morning egg routine! They're easy, light, and packed with savory flavors.",
   },
 ];
 
