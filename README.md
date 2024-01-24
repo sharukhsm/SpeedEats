@@ -16,7 +16,7 @@ Javascript Basics,
 React Basics,
 Node Basics
 
-![alt text](https://imgur.com/S0joFTt)
+![alt text](app-image.png)
 
 # Getting Started with Create React App
 
