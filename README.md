@@ -16,6 +16,8 @@ Javascript Basics,
 React Basics,
 Node Basics
 
+![alt text](https://imgur.com/S0joFTt)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
