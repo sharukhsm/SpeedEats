@@ -1,3 +1,7 @@
+# SpeedEats - A Food Delivery App
+
+This project is a food delivery application equipped with essential features such as cart functionality, secure payments, user authentication, and search capabilities. Developed using modern web technologies, it provides a seamless experience for users to browse, order, and pay for their favorite dishes.
+
 # Technologies used for this project
 
 Redux,
@@ -19,3 +23,11 @@ Node Basics
 # App preview
 
 ![alt text](app-image.png)
+
+# Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+# License
+
+This project is licensed under the MIT License.
